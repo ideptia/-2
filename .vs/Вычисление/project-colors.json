@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9869c29c-e552-4902-bb91-e6339ee10a9f": {
+      "ProjectGuid": "9869c29c-e552-4902-bb91-e6339ee10a9f",
+      "DisplayName": "Вычисление",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
